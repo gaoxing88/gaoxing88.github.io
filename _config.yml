@@ -1,1 +1,5 @@
 theme: jekyll-theme-merlot
+deploy:
+type:git
+repository:git@github.com:gaoxing88/gaoxing88.github.io.git
+branch:master
